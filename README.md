@@ -1,5 +1,6 @@
 
-[![STLDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=STLDOv2)](https://github.com/anuraghazra/github-readme-stats)
+[![STLDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=STLDOv2)]
+![STLDO's GitHub stats](https://github-readme-stats.vercel.app/api?username=STLDOv2&show_icons=true)
 
 - 👋 Hi, I’m @STLDOv2
 - 👀 I’m interested in ...
